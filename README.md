@@ -1,6 +1,7 @@
 # cidirectinvesting-go
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/nicolai86/cidirectinvesting-go.svg)](https://pkg.go.dev/github.com/nicolai86/cidirectinvesting-go)
+[![go](https://github.com/nicolai86/cidirectinvesting-go/actions/workflows/go.yml/badge.svg)](https://github.com/nicolai86/cidirectinvesting-go/actions/workflows/go.yml)
 
 This is a Go SDK for the [CI Direct Investing](https://cidirectinvesting.com/) application.
 It's a tiny wrapper around the rest API exposed by CI Direct Investing. 
